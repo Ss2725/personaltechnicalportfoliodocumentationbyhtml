@@ -1,0 +1,22 @@
+div{
+    box-shadow: 0 0 25px rgba(0,0,0,0.5) ;
+    width: 40%;
+    padding: 25px;
+    margin: 50px auto;
+    background-color: beige;
+    height: 400px;
+    width: 400px;
+}
+div label{
+    color: blue;
+}
+h1{
+    color: black;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.btn:hover{
+    background-color: blue;
+    color: aliceblue;
+}

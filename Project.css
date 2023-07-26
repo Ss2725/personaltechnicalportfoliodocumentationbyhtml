@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+.p{
+    box-shadow: 0 0 25px rgba(0,0,0,0.5) ;
+    margin: 50px auto;
+    width: 30%;
+    padding: 25px;
+    height: 400px;
+    width: 400px;
+}
+.q{
+    box-shadow: 0 0 25px rgba(0,0,0,0.5) ;
+    width: 40%;
+    padding: 15px;
+    padding: 25px;
+    height: 200px;
+    width: 400px;
+}
+table tr td{
+    box-shadow: 0 0 25px rgba(0,0,0,0.5) ;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 300px;
+    width: 400px;
+    align-items: center;
+}
+.c{
+    box-shadow: 0 0 25px rgba(0,0,0,0.5) ;
+    margin: 50px auto;
+    width: 30%;
+    padding: 25px;
+    height: 200px;
+    width: 400px;
+}
